@@ -1,0 +1,74 @@
+/* Font faces for ZhudouSans */ 
+
+@font-face {
+    font-family: 'ZhudouSans-Bold';
+    src: url('https://source.pika.net.cn/ttf/ZhudouSans/ZhudouSans-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ZhudouSans-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/ZhudouSans/ZhudouSans-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ZhudouSans-Heavy';
+    src: url('https://source.pika.net.cn/ttf/ZhudouSans/ZhudouSans-Heavy.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ZhudouSans-Light';
+    src: url('https://source.pika.net.cn/ttf/ZhudouSans/ZhudouSans-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ZhudouSans-Medium';
+    src: url('https://source.pika.net.cn/ttf/ZhudouSans/ZhudouSans-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ZhudouSans-Normal';
+    src: url('https://source.pika.net.cn/ttf/ZhudouSans/ZhudouSans-Normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ZhudouSans-Regular';
+    src: url('https://source.pika.net.cn/ttf/ZhudouSans/ZhudouSans-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'ZhudouSans-Bold', 'ZhudouSans-ExtraLight', 'ZhudouSans-Heavy', 'ZhudouSans-Light', 'ZhudouSans-Medium', 'ZhudouSans-Normal', 'ZhudouSans-Regular', sans-serif;
+}
+
+body {
+    font-family: 'ZhudouSans-Bold', 'ZhudouSans-ExtraLight', 'ZhudouSans-Heavy', 'ZhudouSans-Light', 'ZhudouSans-Medium', 'ZhudouSans-Normal', 'ZhudouSans-Regular', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

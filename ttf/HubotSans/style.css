@@ -1,0 +1,410 @@
+/* Font faces for HubotSans */ 
+
+@font-face {
+    font-family: 'HubotSans-Black';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-BlackItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-Bold';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-Italic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-Light';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-Medium';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-Regular';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-Black';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-BlackItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-Bold';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-Italic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-Light';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-Medium';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-Regular';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansCondensed-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansCondensed-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-Black';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-BlackItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-Bold';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-Italic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-Light';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-Medium';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-Regular';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSansExpanded-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSansExpanded-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HubotSans[slnt,wdth,wght]';
+    src: url('https://source.pika.net.cn/ttf/HubotSans/HubotSans[slnt,wdth,wght].woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'HubotSans-Black', 'HubotSans-BlackItalic', 'HubotSans-Bold', 'HubotSans-BoldItalic', 'HubotSans-ExtraBold', 'HubotSans-ExtraBoldItalic', 'HubotSans-ExtraLight', 'HubotSans-ExtraLightItalic', 'HubotSans-Italic', 'HubotSans-Light', 'HubotSans-LightItalic', 'HubotSans-Medium', 'HubotSans-MediumItalic', 'HubotSans-Regular', 'HubotSans-SemiBold', 'HubotSans-SemiBoldItalic', 'HubotSansCondensed-Black', 'HubotSansCondensed-BlackItalic', 'HubotSansCondensed-Bold', 'HubotSansCondensed-BoldItalic', 'HubotSansCondensed-ExtraBold', 'HubotSansCondensed-ExtraBoldItalic', 'HubotSansCondensed-ExtraLight', 'HubotSansCondensed-ExtraLightItalic', 'HubotSansCondensed-Italic', 'HubotSansCondensed-Light', 'HubotSansCondensed-LightItalic', 'HubotSansCondensed-Medium', 'HubotSansCondensed-MediumItalic', 'HubotSansCondensed-Regular', 'HubotSansCondensed-SemiBold', 'HubotSansCondensed-SemiBoldItalic', 'HubotSansExpanded-Black', 'HubotSansExpanded-BlackItalic', 'HubotSansExpanded-Bold', 'HubotSansExpanded-BoldItalic', 'HubotSansExpanded-ExtraBold', 'HubotSansExpanded-ExtraBoldItalic', 'HubotSansExpanded-ExtraLight', 'HubotSansExpanded-ExtraLightItalic', 'HubotSansExpanded-Italic', 'HubotSansExpanded-Light', 'HubotSansExpanded-LightItalic', 'HubotSansExpanded-Medium', 'HubotSansExpanded-MediumItalic', 'HubotSansExpanded-Regular', 'HubotSansExpanded-SemiBold', 'HubotSansExpanded-SemiBoldItalic', 'HubotSans[slnt,wdth,wght]', sans-serif;
+}
+
+body {
+    font-family: 'HubotSans-Black', 'HubotSans-BlackItalic', 'HubotSans-Bold', 'HubotSans-BoldItalic', 'HubotSans-ExtraBold', 'HubotSans-ExtraBoldItalic', 'HubotSans-ExtraLight', 'HubotSans-ExtraLightItalic', 'HubotSans-Italic', 'HubotSans-Light', 'HubotSans-LightItalic', 'HubotSans-Medium', 'HubotSans-MediumItalic', 'HubotSans-Regular', 'HubotSans-SemiBold', 'HubotSans-SemiBoldItalic', 'HubotSansCondensed-Black', 'HubotSansCondensed-BlackItalic', 'HubotSansCondensed-Bold', 'HubotSansCondensed-BoldItalic', 'HubotSansCondensed-ExtraBold', 'HubotSansCondensed-ExtraBoldItalic', 'HubotSansCondensed-ExtraLight', 'HubotSansCondensed-ExtraLightItalic', 'HubotSansCondensed-Italic', 'HubotSansCondensed-Light', 'HubotSansCondensed-LightItalic', 'HubotSansCondensed-Medium', 'HubotSansCondensed-MediumItalic', 'HubotSansCondensed-Regular', 'HubotSansCondensed-SemiBold', 'HubotSansCondensed-SemiBoldItalic', 'HubotSansExpanded-Black', 'HubotSansExpanded-BlackItalic', 'HubotSansExpanded-Bold', 'HubotSansExpanded-BoldItalic', 'HubotSansExpanded-ExtraBold', 'HubotSansExpanded-ExtraBoldItalic', 'HubotSansExpanded-ExtraLight', 'HubotSansExpanded-ExtraLightItalic', 'HubotSansExpanded-Italic', 'HubotSansExpanded-Light', 'HubotSansExpanded-LightItalic', 'HubotSansExpanded-Medium', 'HubotSansExpanded-MediumItalic', 'HubotSansExpanded-Regular', 'HubotSansExpanded-SemiBold', 'HubotSansExpanded-SemiBoldItalic', 'HubotSans[slnt,wdth,wght]', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

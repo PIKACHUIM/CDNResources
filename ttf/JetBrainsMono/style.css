@@ -1,0 +1,146 @@
+/* Font faces for JetBrainsMono */ 
+
+@font-face {
+    font-family: 'JetBrainsMono-Bold';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-Italic';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-Light';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-Medium';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-Regular';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-Thin';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-Thin.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono-ThinItalic';
+    src: url('https://source.pika.net.cn/ttf/JetBrainsMono/JetBrainsMono-ThinItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'JetBrainsMono-Bold', 'JetBrainsMono-BoldItalic', 'JetBrainsMono-ExtraBold', 'JetBrainsMono-ExtraBoldItalic', 'JetBrainsMono-ExtraLight', 'JetBrainsMono-ExtraLightItalic', 'JetBrainsMono-Italic', 'JetBrainsMono-Light', 'JetBrainsMono-LightItalic', 'JetBrainsMono-Medium', 'JetBrainsMono-MediumItalic', 'JetBrainsMono-Regular', 'JetBrainsMono-SemiBold', 'JetBrainsMono-SemiBoldItalic', 'JetBrainsMono-Thin', 'JetBrainsMono-ThinItalic', sans-serif;
+}
+
+body {
+    font-family: 'JetBrainsMono-Bold', 'JetBrainsMono-BoldItalic', 'JetBrainsMono-ExtraBold', 'JetBrainsMono-ExtraBoldItalic', 'JetBrainsMono-ExtraLight', 'JetBrainsMono-ExtraLightItalic', 'JetBrainsMono-Italic', 'JetBrainsMono-Light', 'JetBrainsMono-LightItalic', 'JetBrainsMono-Medium', 'JetBrainsMono-MediumItalic', 'JetBrainsMono-Regular', 'JetBrainsMono-SemiBold', 'JetBrainsMono-SemiBoldItalic', 'JetBrainsMono-Thin', 'JetBrainsMono-ThinItalic', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

@@ -1,0 +1,322 @@
+/* Font faces for Inter */ 
+
+@font-face {
+    font-family: 'Inter-Black';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-BlackItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bold';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Italic';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Light';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Medium';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Thin';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-Thin.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-ThinItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/Inter-ThinItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-Black';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-BlackItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-Bold';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-Italic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-Light';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-Medium';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-Regular';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-Thin';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-Thin.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterDisplay-ThinItalic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterDisplay-ThinItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterVariable-Italic';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterVariable-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'InterVariable';
+    src: url('https://source.pika.net.cn/ttf/Inter/InterVariable.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'Inter-Black', 'Inter-BlackItalic', 'Inter-Bold', 'Inter-BoldItalic', 'Inter-ExtraBold', 'Inter-ExtraBoldItalic', 'Inter-ExtraLight', 'Inter-ExtraLightItalic', 'Inter-Italic', 'Inter-Light', 'Inter-LightItalic', 'Inter-Medium', 'Inter-MediumItalic', 'Inter-Regular', 'Inter-SemiBold', 'Inter-SemiBoldItalic', 'Inter-Thin', 'Inter-ThinItalic', 'InterDisplay-Black', 'InterDisplay-BlackItalic', 'InterDisplay-Bold', 'InterDisplay-BoldItalic', 'InterDisplay-ExtraBold', 'InterDisplay-ExtraBoldItalic', 'InterDisplay-ExtraLight', 'InterDisplay-ExtraLightItalic', 'InterDisplay-Italic', 'InterDisplay-Light', 'InterDisplay-LightItalic', 'InterDisplay-Medium', 'InterDisplay-MediumItalic', 'InterDisplay-Regular', 'InterDisplay-SemiBold', 'InterDisplay-SemiBoldItalic', 'InterDisplay-Thin', 'InterDisplay-ThinItalic', 'InterVariable-Italic', 'InterVariable', sans-serif;
+}
+
+body {
+    font-family: 'Inter-Black', 'Inter-BlackItalic', 'Inter-Bold', 'Inter-BoldItalic', 'Inter-ExtraBold', 'Inter-ExtraBoldItalic', 'Inter-ExtraLight', 'Inter-ExtraLightItalic', 'Inter-Italic', 'Inter-Light', 'Inter-LightItalic', 'Inter-Medium', 'Inter-MediumItalic', 'Inter-Regular', 'Inter-SemiBold', 'Inter-SemiBoldItalic', 'Inter-Thin', 'Inter-ThinItalic', 'InterDisplay-Black', 'InterDisplay-BlackItalic', 'InterDisplay-Bold', 'InterDisplay-BoldItalic', 'InterDisplay-ExtraBold', 'InterDisplay-ExtraBoldItalic', 'InterDisplay-ExtraLight', 'InterDisplay-ExtraLightItalic', 'InterDisplay-Italic', 'InterDisplay-Light', 'InterDisplay-LightItalic', 'InterDisplay-Medium', 'InterDisplay-MediumItalic', 'InterDisplay-Regular', 'InterDisplay-SemiBold', 'InterDisplay-SemiBoldItalic', 'InterDisplay-Thin', 'InterDisplay-ThinItalic', 'InterVariable-Italic', 'InterVariable', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

@@ -1,0 +1,410 @@
+/* Font faces for MonaSans */ 
+
+@font-face {
+    font-family: 'MonaSans-Black';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-BlackItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-Bold';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-Italic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-Light';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-Medium';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-Regular';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-Black';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-BlackItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-Bold';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-Italic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-Light';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-Medium';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-Regular';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansCondensed-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansCondensed-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-Black';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-BlackItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-BlackItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-Bold';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-Italic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-Light';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-Medium';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-Regular';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSansExpanded-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSansExpanded-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaSans[slnt,wdth,wght]';
+    src: url('https://source.pika.net.cn/ttf/MonaSans/MonaSans[slnt,wdth,wght].woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'MonaSans-Black', 'MonaSans-BlackItalic', 'MonaSans-Bold', 'MonaSans-BoldItalic', 'MonaSans-ExtraBold', 'MonaSans-ExtraBoldItalic', 'MonaSans-ExtraLight', 'MonaSans-ExtraLightItalic', 'MonaSans-Italic', 'MonaSans-Light', 'MonaSans-LightItalic', 'MonaSans-Medium', 'MonaSans-MediumItalic', 'MonaSans-Regular', 'MonaSans-SemiBold', 'MonaSans-SemiBoldItalic', 'MonaSansCondensed-Black', 'MonaSansCondensed-BlackItalic', 'MonaSansCondensed-Bold', 'MonaSansCondensed-BoldItalic', 'MonaSansCondensed-ExtraBold', 'MonaSansCondensed-ExtraBoldItalic', 'MonaSansCondensed-ExtraLight', 'MonaSansCondensed-ExtraLightItalic', 'MonaSansCondensed-Italic', 'MonaSansCondensed-Light', 'MonaSansCondensed-LightItalic', 'MonaSansCondensed-Medium', 'MonaSansCondensed-MediumItalic', 'MonaSansCondensed-Regular', 'MonaSansCondensed-SemiBold', 'MonaSansCondensed-SemiBoldItalic', 'MonaSansExpanded-Black', 'MonaSansExpanded-BlackItalic', 'MonaSansExpanded-Bold', 'MonaSansExpanded-BoldItalic', 'MonaSansExpanded-ExtraBold', 'MonaSansExpanded-ExtraBoldItalic', 'MonaSansExpanded-ExtraLight', 'MonaSansExpanded-ExtraLightItalic', 'MonaSansExpanded-Italic', 'MonaSansExpanded-Light', 'MonaSansExpanded-LightItalic', 'MonaSansExpanded-Medium', 'MonaSansExpanded-MediumItalic', 'MonaSansExpanded-Regular', 'MonaSansExpanded-SemiBold', 'MonaSansExpanded-SemiBoldItalic', 'MonaSans[slnt,wdth,wght]', sans-serif;
+}
+
+body {
+    font-family: 'MonaSans-Black', 'MonaSans-BlackItalic', 'MonaSans-Bold', 'MonaSans-BoldItalic', 'MonaSans-ExtraBold', 'MonaSans-ExtraBoldItalic', 'MonaSans-ExtraLight', 'MonaSans-ExtraLightItalic', 'MonaSans-Italic', 'MonaSans-Light', 'MonaSans-LightItalic', 'MonaSans-Medium', 'MonaSans-MediumItalic', 'MonaSans-Regular', 'MonaSans-SemiBold', 'MonaSans-SemiBoldItalic', 'MonaSansCondensed-Black', 'MonaSansCondensed-BlackItalic', 'MonaSansCondensed-Bold', 'MonaSansCondensed-BoldItalic', 'MonaSansCondensed-ExtraBold', 'MonaSansCondensed-ExtraBoldItalic', 'MonaSansCondensed-ExtraLight', 'MonaSansCondensed-ExtraLightItalic', 'MonaSansCondensed-Italic', 'MonaSansCondensed-Light', 'MonaSansCondensed-LightItalic', 'MonaSansCondensed-Medium', 'MonaSansCondensed-MediumItalic', 'MonaSansCondensed-Regular', 'MonaSansCondensed-SemiBold', 'MonaSansCondensed-SemiBoldItalic', 'MonaSansExpanded-Black', 'MonaSansExpanded-BlackItalic', 'MonaSansExpanded-Bold', 'MonaSansExpanded-BoldItalic', 'MonaSansExpanded-ExtraBold', 'MonaSansExpanded-ExtraBoldItalic', 'MonaSansExpanded-ExtraLight', 'MonaSansExpanded-ExtraLightItalic', 'MonaSansExpanded-Italic', 'MonaSansExpanded-Light', 'MonaSansExpanded-LightItalic', 'MonaSansExpanded-Medium', 'MonaSansExpanded-MediumItalic', 'MonaSansExpanded-Regular', 'MonaSansExpanded-SemiBold', 'MonaSansExpanded-SemiBoldItalic', 'MonaSans[slnt,wdth,wght]', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

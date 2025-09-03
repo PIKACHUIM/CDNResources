@@ -1,0 +1,1738 @@
+/* Font faces for Monaspace */ 
+
+@font-face {
+    font-family: 'MonaspaceArgon-Bold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-Italic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-Light';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-Medium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-Regular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-SemiWideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-SemiWideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgon-WideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgon-WideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceArgonVarVF[wght,wdth,slnt]';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceArgonVarVF[wght,wdth,slnt].woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-Bold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-Italic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-Light';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-Medium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-Regular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-SemiWideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-SemiWideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKrypton-WideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKrypton-WideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceKryptonVarVF[wght,wdth,slnt]';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceKryptonVarVF[wght,wdth,slnt].woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-Bold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-Italic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-Light';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-Medium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-Regular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-SemiWideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-SemiWideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon-WideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeon-WideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeonVarVF[wght,wdth,slnt]';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceNeonVarVF[wght,wdth,slnt].woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-Bold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-Italic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-Light';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-Medium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-Regular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-SemiWideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-SemiWideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon-WideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadon-WideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadonVarVF[wght,wdth,slnt]';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceRadonVarVF[wght,wdth,slnt].woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-Bold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-ExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-ExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-Italic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-Light';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-Medium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-Regular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-SemiWideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-SemiWideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideExtraBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideExtraBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideExtraBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideExtraLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideLight';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideLightItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideMedium';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideMedium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideMediumItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideMediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideRegular';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideRegular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideSemiBold';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideSemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon-WideSemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenon-WideSemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenonVarVF[wght,wdth,slnt]';
+    src: url('https://source.pika.net.cn/ttf/Monaspace/MonaspaceXenonVarVF[wght,wdth,slnt].woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'MonaspaceArgon-Bold', 'MonaspaceArgon-BoldItalic', 'MonaspaceArgon-ExtraBold', 'MonaspaceArgon-ExtraBoldItalic', 'MonaspaceArgon-ExtraLight', 'MonaspaceArgon-ExtraLightItalic', 'MonaspaceArgon-Italic', 'MonaspaceArgon-Light', 'MonaspaceArgon-LightItalic', 'MonaspaceArgon-Medium', 'MonaspaceArgon-MediumItalic', 'MonaspaceArgon-Regular', 'MonaspaceArgon-SemiBold', 'MonaspaceArgon-SemiBoldItalic', 'MonaspaceArgon-SemiWideBold', 'MonaspaceArgon-SemiWideBoldItalic', 'MonaspaceArgon-SemiWideExtraBold', 'MonaspaceArgon-SemiWideExtraBoldItalic', 'MonaspaceArgon-SemiWideExtraLight', 'MonaspaceArgon-SemiWideExtraLightItalic', 'MonaspaceArgon-SemiWideItalic', 'MonaspaceArgon-SemiWideLight', 'MonaspaceArgon-SemiWideLightItalic', 'MonaspaceArgon-SemiWideMedium', 'MonaspaceArgon-SemiWideMediumItalic', 'MonaspaceArgon-SemiWideRegular', 'MonaspaceArgon-SemiWideSemiBold', 'MonaspaceArgon-SemiWideSemiBoldItalic', 'MonaspaceArgon-WideBold', 'MonaspaceArgon-WideBoldItalic', 'MonaspaceArgon-WideExtraBold', 'MonaspaceArgon-WideExtraBoldItalic', 'MonaspaceArgon-WideExtraLight', 'MonaspaceArgon-WideExtraLightItalic', 'MonaspaceArgon-WideItalic', 'MonaspaceArgon-WideLight', 'MonaspaceArgon-WideLightItalic', 'MonaspaceArgon-WideMedium', 'MonaspaceArgon-WideMediumItalic', 'MonaspaceArgon-WideRegular', 'MonaspaceArgon-WideSemiBold', 'MonaspaceArgon-WideSemiBoldItalic', 'MonaspaceArgonVarVF[wght,wdth,slnt]', 'MonaspaceKrypton-Bold', 'MonaspaceKrypton-BoldItalic', 'MonaspaceKrypton-ExtraBold', 'MonaspaceKrypton-ExtraBoldItalic', 'MonaspaceKrypton-ExtraLight', 'MonaspaceKrypton-ExtraLightItalic', 'MonaspaceKrypton-Italic', 'MonaspaceKrypton-Light', 'MonaspaceKrypton-LightItalic', 'MonaspaceKrypton-Medium', 'MonaspaceKrypton-MediumItalic', 'MonaspaceKrypton-Regular', 'MonaspaceKrypton-SemiBold', 'MonaspaceKrypton-SemiBoldItalic', 'MonaspaceKrypton-SemiWideBold', 'MonaspaceKrypton-SemiWideBoldItalic', 'MonaspaceKrypton-SemiWideExtraBold', 'MonaspaceKrypton-SemiWideExtraBoldItalic', 'MonaspaceKrypton-SemiWideExtraLight', 'MonaspaceKrypton-SemiWideExtraLightItalic', 'MonaspaceKrypton-SemiWideItalic', 'MonaspaceKrypton-SemiWideLight', 'MonaspaceKrypton-SemiWideLightItalic', 'MonaspaceKrypton-SemiWideMedium', 'MonaspaceKrypton-SemiWideMediumItalic', 'MonaspaceKrypton-SemiWideRegular', 'MonaspaceKrypton-SemiWideSemiBold', 'MonaspaceKrypton-SemiWideSemiBoldItalic', 'MonaspaceKrypton-WideBold', 'MonaspaceKrypton-WideBoldItalic', 'MonaspaceKrypton-WideExtraBold', 'MonaspaceKrypton-WideExtraBoldItalic', 'MonaspaceKrypton-WideExtraLight', 'MonaspaceKrypton-WideExtraLightItalic', 'MonaspaceKrypton-WideItalic', 'MonaspaceKrypton-WideLight', 'MonaspaceKrypton-WideLightItalic', 'MonaspaceKrypton-WideMedium', 'MonaspaceKrypton-WideMediumItalic', 'MonaspaceKrypton-WideRegular', 'MonaspaceKrypton-WideSemiBold', 'MonaspaceKrypton-WideSemiBoldItalic', 'MonaspaceKryptonVarVF[wght,wdth,slnt]', 'MonaspaceNeon-Bold', 'MonaspaceNeon-BoldItalic', 'MonaspaceNeon-ExtraBold', 'MonaspaceNeon-ExtraBoldItalic', 'MonaspaceNeon-ExtraLight', 'MonaspaceNeon-ExtraLightItalic', 'MonaspaceNeon-Italic', 'MonaspaceNeon-Light', 'MonaspaceNeon-LightItalic', 'MonaspaceNeon-Medium', 'MonaspaceNeon-MediumItalic', 'MonaspaceNeon-Regular', 'MonaspaceNeon-SemiBold', 'MonaspaceNeon-SemiBoldItalic', 'MonaspaceNeon-SemiWideBold', 'MonaspaceNeon-SemiWideBoldItalic', 'MonaspaceNeon-SemiWideExtraBold', 'MonaspaceNeon-SemiWideExtraBoldItalic', 'MonaspaceNeon-SemiWideExtraLight', 'MonaspaceNeon-SemiWideExtraLightItalic', 'MonaspaceNeon-SemiWideItalic', 'MonaspaceNeon-SemiWideLight', 'MonaspaceNeon-SemiWideLightItalic', 'MonaspaceNeon-SemiWideMedium', 'MonaspaceNeon-SemiWideMediumItalic', 'MonaspaceNeon-SemiWideRegular', 'MonaspaceNeon-SemiWideSemiBold', 'MonaspaceNeon-SemiWideSemiBoldItalic', 'MonaspaceNeon-WideBold', 'MonaspaceNeon-WideBoldItalic', 'MonaspaceNeon-WideExtraBold', 'MonaspaceNeon-WideExtraBoldItalic', 'MonaspaceNeon-WideExtraLight', 'MonaspaceNeon-WideExtraLightItalic', 'MonaspaceNeon-WideItalic', 'MonaspaceNeon-WideLight', 'MonaspaceNeon-WideLightItalic', 'MonaspaceNeon-WideMedium', 'MonaspaceNeon-WideMediumItalic', 'MonaspaceNeon-WideRegular', 'MonaspaceNeon-WideSemiBold', 'MonaspaceNeon-WideSemiBoldItalic', 'MonaspaceNeonVarVF[wght,wdth,slnt]', 'MonaspaceRadon-Bold', 'MonaspaceRadon-BoldItalic', 'MonaspaceRadon-ExtraBold', 'MonaspaceRadon-ExtraBoldItalic', 'MonaspaceRadon-ExtraLight', 'MonaspaceRadon-ExtraLightItalic', 'MonaspaceRadon-Italic', 'MonaspaceRadon-Light', 'MonaspaceRadon-LightItalic', 'MonaspaceRadon-Medium', 'MonaspaceRadon-MediumItalic', 'MonaspaceRadon-Regular', 'MonaspaceRadon-SemiBold', 'MonaspaceRadon-SemiBoldItalic', 'MonaspaceRadon-SemiWideBold', 'MonaspaceRadon-SemiWideBoldItalic', 'MonaspaceRadon-SemiWideExtraBold', 'MonaspaceRadon-SemiWideExtraBoldItalic', 'MonaspaceRadon-SemiWideExtraLight', 'MonaspaceRadon-SemiWideExtraLightItalic', 'MonaspaceRadon-SemiWideItalic', 'MonaspaceRadon-SemiWideLight', 'MonaspaceRadon-SemiWideLightItalic', 'MonaspaceRadon-SemiWideMedium', 'MonaspaceRadon-SemiWideMediumItalic', 'MonaspaceRadon-SemiWideRegular', 'MonaspaceRadon-SemiWideSemiBold', 'MonaspaceRadon-SemiWideSemiBoldItalic', 'MonaspaceRadon-WideBold', 'MonaspaceRadon-WideBoldItalic', 'MonaspaceRadon-WideExtraBold', 'MonaspaceRadon-WideExtraBoldItalic', 'MonaspaceRadon-WideExtraLight', 'MonaspaceRadon-WideExtraLightItalic', 'MonaspaceRadon-WideItalic', 'MonaspaceRadon-WideLight', 'MonaspaceRadon-WideLightItalic', 'MonaspaceRadon-WideMedium', 'MonaspaceRadon-WideMediumItalic', 'MonaspaceRadon-WideRegular', 'MonaspaceRadon-WideSemiBold', 'MonaspaceRadon-WideSemiBoldItalic', 'MonaspaceRadonVarVF[wght,wdth,slnt]', 'MonaspaceXenon-Bold', 'MonaspaceXenon-BoldItalic', 'MonaspaceXenon-ExtraBold', 'MonaspaceXenon-ExtraBoldItalic', 'MonaspaceXenon-ExtraLight', 'MonaspaceXenon-ExtraLightItalic', 'MonaspaceXenon-Italic', 'MonaspaceXenon-Light', 'MonaspaceXenon-LightItalic', 'MonaspaceXenon-Medium', 'MonaspaceXenon-MediumItalic', 'MonaspaceXenon-Regular', 'MonaspaceXenon-SemiBold', 'MonaspaceXenon-SemiBoldItalic', 'MonaspaceXenon-SemiWideBold', 'MonaspaceXenon-SemiWideBoldItalic', 'MonaspaceXenon-SemiWideExtraBold', 'MonaspaceXenon-SemiWideExtraBoldItalic', 'MonaspaceXenon-SemiWideExtraLight', 'MonaspaceXenon-SemiWideExtraLightItalic', 'MonaspaceXenon-SemiWideItalic', 'MonaspaceXenon-SemiWideLight', 'MonaspaceXenon-SemiWideLightItalic', 'MonaspaceXenon-SemiWideMedium', 'MonaspaceXenon-SemiWideMediumItalic', 'MonaspaceXenon-SemiWideRegular', 'MonaspaceXenon-SemiWideSemiBold', 'MonaspaceXenon-SemiWideSemiBoldItalic', 'MonaspaceXenon-WideBold', 'MonaspaceXenon-WideBoldItalic', 'MonaspaceXenon-WideExtraBold', 'MonaspaceXenon-WideExtraBoldItalic', 'MonaspaceXenon-WideExtraLight', 'MonaspaceXenon-WideExtraLightItalic', 'MonaspaceXenon-WideItalic', 'MonaspaceXenon-WideLight', 'MonaspaceXenon-WideLightItalic', 'MonaspaceXenon-WideMedium', 'MonaspaceXenon-WideMediumItalic', 'MonaspaceXenon-WideRegular', 'MonaspaceXenon-WideSemiBold', 'MonaspaceXenon-WideSemiBoldItalic', 'MonaspaceXenonVarVF[wght,wdth,slnt]', sans-serif;
+}
+
+body {
+    font-family: 'MonaspaceArgon-Bold', 'MonaspaceArgon-BoldItalic', 'MonaspaceArgon-ExtraBold', 'MonaspaceArgon-ExtraBoldItalic', 'MonaspaceArgon-ExtraLight', 'MonaspaceArgon-ExtraLightItalic', 'MonaspaceArgon-Italic', 'MonaspaceArgon-Light', 'MonaspaceArgon-LightItalic', 'MonaspaceArgon-Medium', 'MonaspaceArgon-MediumItalic', 'MonaspaceArgon-Regular', 'MonaspaceArgon-SemiBold', 'MonaspaceArgon-SemiBoldItalic', 'MonaspaceArgon-SemiWideBold', 'MonaspaceArgon-SemiWideBoldItalic', 'MonaspaceArgon-SemiWideExtraBold', 'MonaspaceArgon-SemiWideExtraBoldItalic', 'MonaspaceArgon-SemiWideExtraLight', 'MonaspaceArgon-SemiWideExtraLightItalic', 'MonaspaceArgon-SemiWideItalic', 'MonaspaceArgon-SemiWideLight', 'MonaspaceArgon-SemiWideLightItalic', 'MonaspaceArgon-SemiWideMedium', 'MonaspaceArgon-SemiWideMediumItalic', 'MonaspaceArgon-SemiWideRegular', 'MonaspaceArgon-SemiWideSemiBold', 'MonaspaceArgon-SemiWideSemiBoldItalic', 'MonaspaceArgon-WideBold', 'MonaspaceArgon-WideBoldItalic', 'MonaspaceArgon-WideExtraBold', 'MonaspaceArgon-WideExtraBoldItalic', 'MonaspaceArgon-WideExtraLight', 'MonaspaceArgon-WideExtraLightItalic', 'MonaspaceArgon-WideItalic', 'MonaspaceArgon-WideLight', 'MonaspaceArgon-WideLightItalic', 'MonaspaceArgon-WideMedium', 'MonaspaceArgon-WideMediumItalic', 'MonaspaceArgon-WideRegular', 'MonaspaceArgon-WideSemiBold', 'MonaspaceArgon-WideSemiBoldItalic', 'MonaspaceArgonVarVF[wght,wdth,slnt]', 'MonaspaceKrypton-Bold', 'MonaspaceKrypton-BoldItalic', 'MonaspaceKrypton-ExtraBold', 'MonaspaceKrypton-ExtraBoldItalic', 'MonaspaceKrypton-ExtraLight', 'MonaspaceKrypton-ExtraLightItalic', 'MonaspaceKrypton-Italic', 'MonaspaceKrypton-Light', 'MonaspaceKrypton-LightItalic', 'MonaspaceKrypton-Medium', 'MonaspaceKrypton-MediumItalic', 'MonaspaceKrypton-Regular', 'MonaspaceKrypton-SemiBold', 'MonaspaceKrypton-SemiBoldItalic', 'MonaspaceKrypton-SemiWideBold', 'MonaspaceKrypton-SemiWideBoldItalic', 'MonaspaceKrypton-SemiWideExtraBold', 'MonaspaceKrypton-SemiWideExtraBoldItalic', 'MonaspaceKrypton-SemiWideExtraLight', 'MonaspaceKrypton-SemiWideExtraLightItalic', 'MonaspaceKrypton-SemiWideItalic', 'MonaspaceKrypton-SemiWideLight', 'MonaspaceKrypton-SemiWideLightItalic', 'MonaspaceKrypton-SemiWideMedium', 'MonaspaceKrypton-SemiWideMediumItalic', 'MonaspaceKrypton-SemiWideRegular', 'MonaspaceKrypton-SemiWideSemiBold', 'MonaspaceKrypton-SemiWideSemiBoldItalic', 'MonaspaceKrypton-WideBold', 'MonaspaceKrypton-WideBoldItalic', 'MonaspaceKrypton-WideExtraBold', 'MonaspaceKrypton-WideExtraBoldItalic', 'MonaspaceKrypton-WideExtraLight', 'MonaspaceKrypton-WideExtraLightItalic', 'MonaspaceKrypton-WideItalic', 'MonaspaceKrypton-WideLight', 'MonaspaceKrypton-WideLightItalic', 'MonaspaceKrypton-WideMedium', 'MonaspaceKrypton-WideMediumItalic', 'MonaspaceKrypton-WideRegular', 'MonaspaceKrypton-WideSemiBold', 'MonaspaceKrypton-WideSemiBoldItalic', 'MonaspaceKryptonVarVF[wght,wdth,slnt]', 'MonaspaceNeon-Bold', 'MonaspaceNeon-BoldItalic', 'MonaspaceNeon-ExtraBold', 'MonaspaceNeon-ExtraBoldItalic', 'MonaspaceNeon-ExtraLight', 'MonaspaceNeon-ExtraLightItalic', 'MonaspaceNeon-Italic', 'MonaspaceNeon-Light', 'MonaspaceNeon-LightItalic', 'MonaspaceNeon-Medium', 'MonaspaceNeon-MediumItalic', 'MonaspaceNeon-Regular', 'MonaspaceNeon-SemiBold', 'MonaspaceNeon-SemiBoldItalic', 'MonaspaceNeon-SemiWideBold', 'MonaspaceNeon-SemiWideBoldItalic', 'MonaspaceNeon-SemiWideExtraBold', 'MonaspaceNeon-SemiWideExtraBoldItalic', 'MonaspaceNeon-SemiWideExtraLight', 'MonaspaceNeon-SemiWideExtraLightItalic', 'MonaspaceNeon-SemiWideItalic', 'MonaspaceNeon-SemiWideLight', 'MonaspaceNeon-SemiWideLightItalic', 'MonaspaceNeon-SemiWideMedium', 'MonaspaceNeon-SemiWideMediumItalic', 'MonaspaceNeon-SemiWideRegular', 'MonaspaceNeon-SemiWideSemiBold', 'MonaspaceNeon-SemiWideSemiBoldItalic', 'MonaspaceNeon-WideBold', 'MonaspaceNeon-WideBoldItalic', 'MonaspaceNeon-WideExtraBold', 'MonaspaceNeon-WideExtraBoldItalic', 'MonaspaceNeon-WideExtraLight', 'MonaspaceNeon-WideExtraLightItalic', 'MonaspaceNeon-WideItalic', 'MonaspaceNeon-WideLight', 'MonaspaceNeon-WideLightItalic', 'MonaspaceNeon-WideMedium', 'MonaspaceNeon-WideMediumItalic', 'MonaspaceNeon-WideRegular', 'MonaspaceNeon-WideSemiBold', 'MonaspaceNeon-WideSemiBoldItalic', 'MonaspaceNeonVarVF[wght,wdth,slnt]', 'MonaspaceRadon-Bold', 'MonaspaceRadon-BoldItalic', 'MonaspaceRadon-ExtraBold', 'MonaspaceRadon-ExtraBoldItalic', 'MonaspaceRadon-ExtraLight', 'MonaspaceRadon-ExtraLightItalic', 'MonaspaceRadon-Italic', 'MonaspaceRadon-Light', 'MonaspaceRadon-LightItalic', 'MonaspaceRadon-Medium', 'MonaspaceRadon-MediumItalic', 'MonaspaceRadon-Regular', 'MonaspaceRadon-SemiBold', 'MonaspaceRadon-SemiBoldItalic', 'MonaspaceRadon-SemiWideBold', 'MonaspaceRadon-SemiWideBoldItalic', 'MonaspaceRadon-SemiWideExtraBold', 'MonaspaceRadon-SemiWideExtraBoldItalic', 'MonaspaceRadon-SemiWideExtraLight', 'MonaspaceRadon-SemiWideExtraLightItalic', 'MonaspaceRadon-SemiWideItalic', 'MonaspaceRadon-SemiWideLight', 'MonaspaceRadon-SemiWideLightItalic', 'MonaspaceRadon-SemiWideMedium', 'MonaspaceRadon-SemiWideMediumItalic', 'MonaspaceRadon-SemiWideRegular', 'MonaspaceRadon-SemiWideSemiBold', 'MonaspaceRadon-SemiWideSemiBoldItalic', 'MonaspaceRadon-WideBold', 'MonaspaceRadon-WideBoldItalic', 'MonaspaceRadon-WideExtraBold', 'MonaspaceRadon-WideExtraBoldItalic', 'MonaspaceRadon-WideExtraLight', 'MonaspaceRadon-WideExtraLightItalic', 'MonaspaceRadon-WideItalic', 'MonaspaceRadon-WideLight', 'MonaspaceRadon-WideLightItalic', 'MonaspaceRadon-WideMedium', 'MonaspaceRadon-WideMediumItalic', 'MonaspaceRadon-WideRegular', 'MonaspaceRadon-WideSemiBold', 'MonaspaceRadon-WideSemiBoldItalic', 'MonaspaceRadonVarVF[wght,wdth,slnt]', 'MonaspaceXenon-Bold', 'MonaspaceXenon-BoldItalic', 'MonaspaceXenon-ExtraBold', 'MonaspaceXenon-ExtraBoldItalic', 'MonaspaceXenon-ExtraLight', 'MonaspaceXenon-ExtraLightItalic', 'MonaspaceXenon-Italic', 'MonaspaceXenon-Light', 'MonaspaceXenon-LightItalic', 'MonaspaceXenon-Medium', 'MonaspaceXenon-MediumItalic', 'MonaspaceXenon-Regular', 'MonaspaceXenon-SemiBold', 'MonaspaceXenon-SemiBoldItalic', 'MonaspaceXenon-SemiWideBold', 'MonaspaceXenon-SemiWideBoldItalic', 'MonaspaceXenon-SemiWideExtraBold', 'MonaspaceXenon-SemiWideExtraBoldItalic', 'MonaspaceXenon-SemiWideExtraLight', 'MonaspaceXenon-SemiWideExtraLightItalic', 'MonaspaceXenon-SemiWideItalic', 'MonaspaceXenon-SemiWideLight', 'MonaspaceXenon-SemiWideLightItalic', 'MonaspaceXenon-SemiWideMedium', 'MonaspaceXenon-SemiWideMediumItalic', 'MonaspaceXenon-SemiWideRegular', 'MonaspaceXenon-SemiWideSemiBold', 'MonaspaceXenon-SemiWideSemiBoldItalic', 'MonaspaceXenon-WideBold', 'MonaspaceXenon-WideBoldItalic', 'MonaspaceXenon-WideExtraBold', 'MonaspaceXenon-WideExtraBoldItalic', 'MonaspaceXenon-WideExtraLight', 'MonaspaceXenon-WideExtraLightItalic', 'MonaspaceXenon-WideItalic', 'MonaspaceXenon-WideLight', 'MonaspaceXenon-WideLightItalic', 'MonaspaceXenon-WideMedium', 'MonaspaceXenon-WideMediumItalic', 'MonaspaceXenon-WideRegular', 'MonaspaceXenon-WideSemiBold', 'MonaspaceXenon-WideSemiBoldItalic', 'MonaspaceXenonVarVF[wght,wdth,slnt]', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

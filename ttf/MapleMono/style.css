@@ -1,0 +1,66 @@
+/* Font faces for MapleMono */ 
+
+@font-face {
+    font-family: 'MapleMonoNL-NF-CN-Bold';
+    src: url('https://source.pika.net.cn/ttf/MapleMono/MapleMonoNL-NF-CN-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MapleMonoNL-NF-CN-Italic';
+    src: url('https://source.pika.net.cn/ttf/MapleMono/MapleMonoNL-NF-CN-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MapleMonoNL-NF-CN-Light';
+    src: url('https://source.pika.net.cn/ttf/MapleMono/MapleMonoNL-NF-CN-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MapleMonoNL-NF-CN-Medium';
+    src: url('https://source.pika.net.cn/ttf/MapleMono/MapleMonoNL-NF-CN-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MapleMonoNL-NF-CN-Regular';
+    src: url('https://source.pika.net.cn/ttf/MapleMono/MapleMonoNL-NF-CN-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MapleMonoNL-NF-CN-Thin';
+    src: url('https://source.pika.net.cn/ttf/MapleMono/MapleMonoNL-NF-CN-Thin.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'MapleMonoNL-NF-CN-Bold', 'MapleMonoNL-NF-CN-Italic', 'MapleMonoNL-NF-CN-Light', 'MapleMonoNL-NF-CN-Medium', 'MapleMonoNL-NF-CN-Regular', 'MapleMonoNL-NF-CN-Thin', sans-serif;
+}
+
+body {
+    font-family: 'MapleMonoNL-NF-CN-Bold', 'MapleMonoNL-NF-CN-Italic', 'MapleMonoNL-NF-CN-Light', 'MapleMonoNL-NF-CN-Medium', 'MapleMonoNL-NF-CN-Regular', 'MapleMonoNL-NF-CN-Thin', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

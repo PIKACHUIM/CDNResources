@@ -1,0 +1,74 @@
+/* Font faces for NotoSerif */ 
+
+@font-face {
+    font-family: 'NotoSerifCJKsc-Black';
+    src: url('https://source.pika.net.cn/ttf/NotoSerif/NotoSerifCJKsc-Black.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSerifCJKsc-Bold';
+    src: url('https://source.pika.net.cn/ttf/NotoSerif/NotoSerifCJKsc-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSerifCJKsc-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/NotoSerif/NotoSerifCJKsc-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSerifCJKsc-Light';
+    src: url('https://source.pika.net.cn/ttf/NotoSerif/NotoSerifCJKsc-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSerifCJKsc-Medium';
+    src: url('https://source.pika.net.cn/ttf/NotoSerif/NotoSerifCJKsc-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSerifCJKsc-Regular';
+    src: url('https://source.pika.net.cn/ttf/NotoSerif/NotoSerifCJKsc-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSerifCJKsc-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/NotoSerif/NotoSerifCJKsc-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'NotoSerifCJKsc-Black', 'NotoSerifCJKsc-Bold', 'NotoSerifCJKsc-ExtraLight', 'NotoSerifCJKsc-Light', 'NotoSerifCJKsc-Medium', 'NotoSerifCJKsc-Regular', 'NotoSerifCJKsc-SemiBold', sans-serif;
+}
+
+body {
+    font-family: 'NotoSerifCJKsc-Black', 'NotoSerifCJKsc-Bold', 'NotoSerifCJKsc-ExtraLight', 'NotoSerifCJKsc-Light', 'NotoSerifCJKsc-Medium', 'NotoSerifCJKsc-Regular', 'NotoSerifCJKsc-SemiBold', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

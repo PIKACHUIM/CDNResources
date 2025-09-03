@@ -1,0 +1,66 @@
+/* Font faces for FiraCode */ 
+
+@font-face {
+    font-family: 'FiraCode-Bold';
+    src: url('https://source.pika.net.cn/ttf/FiraCode/FiraCode-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FiraCode-Light';
+    src: url('https://source.pika.net.cn/ttf/FiraCode/FiraCode-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FiraCode-Medium';
+    src: url('https://source.pika.net.cn/ttf/FiraCode/FiraCode-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FiraCode-Regular';
+    src: url('https://source.pika.net.cn/ttf/FiraCode/FiraCode-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FiraCode-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/FiraCode/FiraCode-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FiraCode-VF';
+    src: url('https://source.pika.net.cn/ttf/FiraCode/FiraCode-VF.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'FiraCode-Bold', 'FiraCode-Light', 'FiraCode-Medium', 'FiraCode-Regular', 'FiraCode-SemiBold', 'FiraCode-VF', sans-serif;
+}
+
+body {
+    font-family: 'FiraCode-Bold', 'FiraCode-Light', 'FiraCode-Medium', 'FiraCode-Regular', 'FiraCode-SemiBold', 'FiraCode-VF', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

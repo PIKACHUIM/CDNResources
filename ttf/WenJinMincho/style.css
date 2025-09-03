@@ -1,0 +1,42 @@
+/* Font faces for WenJinMincho */ 
+
+@font-face {
+    font-family: 'WenJinMinchoP0-Regular';
+    src: url('https://source.pika.net.cn/ttf/WenJinMincho/WenJinMinchoP0-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'WenJinMinchoP2-Regular';
+    src: url('https://source.pika.net.cn/ttf/WenJinMincho/WenJinMinchoP2-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'WenJinMinchoP3-Regular';
+    src: url('https://source.pika.net.cn/ttf/WenJinMincho/WenJinMinchoP3-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'WenJinMinchoP0-Regular', 'WenJinMinchoP2-Regular', 'WenJinMinchoP3-Regular', sans-serif;
+}
+
+body {
+    font-family: 'WenJinMinchoP0-Regular', 'WenJinMinchoP2-Regular', 'WenJinMinchoP3-Regular', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}
