@@ -1,0 +1,146 @@
+/* Font faces for IBMPlexSans */ 
+
+@font-face {
+    font-family: 'IBMPlexSans-Bold';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-BoldItalic';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-BoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-ExtraLight';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-ExtraLight.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-ExtraLightItalic';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-ExtraLightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-Italic';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-Light';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-LightItalic';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-LightItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-Medium';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-MediumItalic';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-MediumItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-Regular';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-SemiBold';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-SemiBoldItalic';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-SemiBoldItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-Text';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-Text.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-TextItalic';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-TextItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-Thin';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-Thin.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-ThinItalic';
+    src: url('https://source.pika.net.cn/ttf/IBMPlexSans/IBMPlexSans-ThinItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'IBMPlexSans-Bold', 'IBMPlexSans-BoldItalic', 'IBMPlexSans-ExtraLight', 'IBMPlexSans-ExtraLightItalic', 'IBMPlexSans-Italic', 'IBMPlexSans-Light', 'IBMPlexSans-LightItalic', 'IBMPlexSans-Medium', 'IBMPlexSans-MediumItalic', 'IBMPlexSans-Regular', 'IBMPlexSans-SemiBold', 'IBMPlexSans-SemiBoldItalic', 'IBMPlexSans-Text', 'IBMPlexSans-TextItalic', 'IBMPlexSans-Thin', 'IBMPlexSans-ThinItalic', sans-serif;
+}
+
+body {
+    font-family: 'IBMPlexSans-Bold', 'IBMPlexSans-BoldItalic', 'IBMPlexSans-ExtraLight', 'IBMPlexSans-ExtraLightItalic', 'IBMPlexSans-Italic', 'IBMPlexSans-Light', 'IBMPlexSans-LightItalic', 'IBMPlexSans-Medium', 'IBMPlexSans-MediumItalic', 'IBMPlexSans-Regular', 'IBMPlexSans-SemiBold', 'IBMPlexSans-SemiBoldItalic', 'IBMPlexSans-Text', 'IBMPlexSans-TextItalic', 'IBMPlexSans-Thin', 'IBMPlexSans-ThinItalic', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}

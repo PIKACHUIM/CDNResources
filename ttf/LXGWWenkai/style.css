@@ -1,0 +1,34 @@
+/* Font faces for LXGWWenkai */ 
+
+@font-face {
+    font-family: 'LXGWWenKai-Regular';
+    src: url('https://source.pika.net.cn/ttf/LXGWWenkai/LXGWWenKai-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LXGWWenKaiMono-Regular';
+    src: url('https://source.pika.net.cn/ttf/LXGWWenkai/LXGWWenKaiMono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Global font settings */
+* {
+    font-family: 'LXGWWenKai-Regular', 'LXGWWenKaiMono-Regular', sans-serif;
+}
+
+body {
+    font-family: 'LXGWWenKai-Regular', 'LXGWWenKaiMono-Regular', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+}
+
+/* Ensure text elements use the font */
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th {
+    font-family: inherit;
+}
